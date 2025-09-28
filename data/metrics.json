@@ -1,0 +1,57 @@
+{
+  "kpis": [
+    {
+      "id": "adoption",
+      "name": "App Adoption Rate",
+      "current": 75,
+      "target": 85,
+      "unit": "%"
+    },
+    {
+      "id": "roi",
+      "name": "Monthly ROI",
+      "current": 1250000,
+      "target": 1500000,
+      "unit": "INR"
+    },
+    {
+      "id": "cost_savings",
+      "name": "Annual Cost Savings",
+      "current": 16800000,
+      "target": 18000000,
+      "unit": "INR"
+    },
+    {
+      "id": "user_satisfaction",
+      "name": "User Satisfaction",
+      "current": 4.8,
+      "target": 4.9,
+      "unit": "/5"
+    }
+  ],
+  "budget": {
+    "allocated": 15000000,
+    "spent": 9800000,
+    "remaining": 5200000
+  },
+  "requests": [
+    { "date": "2024-01", "count": 45 },
+    { "date": "2024-02", "count": 52 },
+    { "date": "2024-03", "count": 68 },
+    { "date": "2024-04", "count": 71 },
+    { "date": "2024-05", "count": 83 },
+    { "date": "2024-06", "count": 92 },
+    { "date": "2024-07", "count": 108 },
+    { "date": "2024-08", "count": 125 },
+    { "date": "2024-09", "count": 142 }
+  ],
+  "department_usage": [
+    { "department": "Engineering", "apps": 24, "users": 156 },
+    { "department": "Marketing", "apps": 18, "users": 98 },
+    { "department": "Sales", "apps": 15, "users": 87 },
+    { "department": "Design", "apps": 12, "users": 54 },
+    { "department": "Data", "apps": 9, "users": 43 },
+    { "department": "HR", "apps": 6, "users": 28 },
+    { "department": "Finance", "apps": 8, "users": 31 }
+  ]
+}
