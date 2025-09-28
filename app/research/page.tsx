@@ -699,7 +699,7 @@ export default function ResearchPage() {
                       <td className="border border-gray-300 p-3">Monthly</td>
                     </tr>
                     <tr className="bg-gray-50">
-                      <td className="border border-gray-300 p-3 font-semibold" rowSpan="3">Business Impact</td>
+                      <td className="border border-gray-300 p-3 font-semibold" rowSpan={3}>Business Impact</td>
                       <td className="border border-gray-300 p-3">IT Ticket Reduction</td>
                       <td className="border border-gray-300 p-3">0%</td>
                       <td className="border border-gray-300 p-3">25%</td>
