@@ -4,7 +4,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-38B2AC)](https://tailwindcss.com/)
 
-**Comprehensive product management case study designing an Employee App Catalog solution targeting 65% adoption and ₹900,000 monthly ROI**
+**Comprehensive product management case study designing an Employee App Catalog solution targeting 65% adoption and ₹9,00,000 monthly ROI**
 
 Interactive case study demonstrating enterprise app discovery solution through research analysis, functional prototypes, and measurable business impact projections.
 
@@ -46,24 +46,3 @@ An intelligent "internal app store" enabling employees to discover approved appl
 - Business impact measurement (IT ticket reduction, provisioning speed)
 - Discovery effectiveness analysis (search success, recommendations)
 - ROI calculations with quantified benefits
-
-## Project Structure
-
-app/
-├── layout.tsx              # Root layout
-├── page.tsx               # Homepage
-├── research/              # Competitive analysis
-├── features/              # Feature specifications
-├── prototypes/            # Interactive demonstrations
-├── metrics/               # Success metrics dashboard
-└── implementation/        # Strategy and rollout
-
-components/
-├── ui/                    # Reusable components
-├── prototypes/            # Prototype-specific components
-└── charts/                # Data visualization
-
-data/
-├── applications.json      # Sample app database
-├── users.json            # User personas
-└── metrics.json          # KPI definitions
