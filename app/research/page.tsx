@@ -677,7 +677,7 @@ export default function ResearchPage() {
                   </thead>
                   <tbody>
                     <tr>
-                      <td className="border border-gray-300 p-3 font-semibold" rowSpan="3">User Adoption</td>
+                      <td className="border border-gray-300 p-3 font-semibold" rowSpan={3}>User Adoption</td>
                       <td className="border border-gray-300 p-3">Monthly Active Users</td>
                       <td className="border border-gray-300 p-3">0%</td>
                       <td className="border border-gray-300 p-3">40%</td>
