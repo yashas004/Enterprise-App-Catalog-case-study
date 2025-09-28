@@ -19,7 +19,7 @@ An intelligent "internal app store" enabling employees to discover approved appl
 ### Key Results
 - **65% employee adoption** within 6 months
 - **45% reduction** in IT support tickets  
-- **₹900,000 monthly ROI** through operational efficiency
+- **₹9,00,000 monthly ROI** through operational efficiency
 - **30% decrease** in shadow IT usage
 
 ## Case Study Components
